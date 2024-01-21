@@ -42,5 +42,5 @@ start notepad Batch_Script.txt
 timeout /nobreak /t 10 >nul
 taskkill /f /im notepad.exe >nul
 cd ..
-rmdir /s /q Batch_Script
+rd /s /q Batch_Script
 endlocal
