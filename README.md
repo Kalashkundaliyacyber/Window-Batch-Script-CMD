@@ -1,5 +1,5 @@
 # Window-Batch-Script-CMD
-<p>SilentCMD executes a batch file without opening the command prompt window. If required, the console output can be redirected to a log file.</br>
+<p>CMD executes a batch file without opening the command prompt window. If required, the console output can be redirected to a log file.</br>
 With the help of the batch script we can know about information of computer are following </br>
  * ComputerName 
  </br>* username
