@@ -1,6 +1,6 @@
 # Window-Batch-Script-CMD
-<p>CMD executes a batch file without opening the command prompt window. If required, the console output can be redirected to a log file.</br>
-With the help of the batch script we can know about information of computer are following </br>
+<p>CMD executes a batch file without opening the command prompt window. </br>
+With the help of batch script we can know the following information about the computer </br>
  * ComputerName 
  </br>* username
  </br>* Operating System 
